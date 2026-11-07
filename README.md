@@ -22,8 +22,8 @@ class Harsh:
     day_job   = ["Java", "Spring Boot", "gRPC", "Python", "AWS", "BPMN"]
     side_quest = "evals & guardrails for AI agents"
     shipped   = {
-        "ingestion throughput (non-media)": "5x  (5K → 25K/day)",
-        "ingestion throughput (media)":     "7x  (1K → 7-8K/day)",
+        "ingestion throughput (media)":     "3.5x  (1K → 3.5K/day)",
+        "ingestion throughput (non-media)": "1.9x  (4K → 7.5K/day)",
         "DSA problems solved":              "1500+",
     }
     belief    = "Don't trust the agent's 'Done!'. Diff the final state."
